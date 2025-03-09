@@ -1,0 +1,11 @@
+lancerJeu();
+//let zoneTexte = document.getElementById("inputEcriture")
+//console.log(zoneTexte)
+//let boutonValidationMot = document.getElementById("btnValiderMot")
+//console.log(boutonValidationMot)
+//let zoneProposition = document.querySelector(".zoneProposition")
+//console.log(zoneProposition)
+//let zoneScore =document.querySelector(".zoneScore span")
+//console.log(zoneScore)
+//let listebtnradio = document.querySelectorAll(".optionSource input ")
+//console.log(listebtnradio)
